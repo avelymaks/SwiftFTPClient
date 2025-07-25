@@ -27,7 +27,7 @@ Note: While the package specifies macOS 10.15 as the minimum version, certain fu
 You can add SwiftFTPClient to your project using Swift Package Manager. In Xcode, go to File > Swift Packages > Add Package Dependency and enter the repository URL:
 
 ```
-https://github.com/fenixkim/SwiftFTPClient.git
+https://github.com/avelymaks/SwiftFTPClient.git
 ```
 
 Alternatively, you can add it to your `Package.swift` file:
