@@ -5,7 +5,7 @@ let package = Package(
     name: "SwiftFTPClient",
     platforms: [
         .macOS(.v10_15),
-        .iOS(.v13),
+        .iOS(.v13_4),
         .tvOS(.v13),
         .watchOS(.v6)
     ],
